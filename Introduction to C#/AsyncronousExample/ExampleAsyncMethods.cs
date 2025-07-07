@@ -29,7 +29,7 @@ class APIReader
     {
         Task<string> data1 = GetDataFromApiAsync("https://api.example.com/data1");
         Task<string> data2 = GetDataFromApiAsync("https://api.example.com/data1"); //Dummy Async Methods
-        await Task.WhenAll(data1, data2);
+        await Task.WhenAll(data1, data2); //Waits for both tasks to finish
         Console.WriteLine(data1.Result);
         Console.WriteLine(data2.Result);
     }
