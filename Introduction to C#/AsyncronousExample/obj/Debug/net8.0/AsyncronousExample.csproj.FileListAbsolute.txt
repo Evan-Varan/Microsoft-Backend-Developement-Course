@@ -1,0 +1,15 @@
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\obj\Debug\net8.0\AsyncronousExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\obj\Debug\net8.0\AsyncronousExample.AssemblyInfoInputs.cache
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\obj\Debug\net8.0\AsyncronousExample.AssemblyInfo.cs
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\obj\Debug\net8.0\AsyncronousExample.csproj.CoreCompileInputs.cache
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\obj\Debug\net8.0\AsyncronousExample.sourcelink.json
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\bin\Debug\net8.0\AsyncronousExample.exe
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\bin\Debug\net8.0\AsyncronousExample.deps.json
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\bin\Debug\net8.0\AsyncronousExample.runtimeconfig.json
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\bin\Debug\net8.0\AsyncronousExample.dll
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\bin\Debug\net8.0\AsyncronousExample.pdb
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\obj\Debug\net8.0\AsyncronousExample.dll
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\obj\Debug\net8.0\refint\AsyncronousExample.dll
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\obj\Debug\net8.0\AsyncronousExample.pdb
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\obj\Debug\net8.0\AsyncronousExample.genruntimeconfig.cache
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\AsyncronousExample\obj\Debug\net8.0\ref\AsyncronousExample.dll
