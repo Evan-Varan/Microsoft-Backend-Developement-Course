@@ -1,0 +1,15 @@
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\bin\Debug\net8.0\CopilotExample.exe
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\bin\Debug\net8.0\CopilotExample.deps.json
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\bin\Debug\net8.0\CopilotExample.runtimeconfig.json
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\bin\Debug\net8.0\CopilotExample.dll
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\bin\Debug\net8.0\CopilotExample.pdb
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\obj\Debug\net8.0\CopilotExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\obj\Debug\net8.0\CopilotExample.AssemblyInfoInputs.cache
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\obj\Debug\net8.0\CopilotExample.AssemblyInfo.cs
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\obj\Debug\net8.0\CopilotExample.csproj.CoreCompileInputs.cache
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\obj\Debug\net8.0\CopilotExample.sourcelink.json
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\obj\Debug\net8.0\CopilotExample.dll
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\obj\Debug\net8.0\refint\CopilotExample.dll
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\obj\Debug\net8.0\CopilotExample.pdb
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\obj\Debug\net8.0\CopilotExample.genruntimeconfig.cache
+C:\Users\Brick\Documents\GitHub\Microsoft-Backend-Developement-Course\Introduction to C#\CopilotExample\obj\Debug\net8.0\ref\CopilotExample.dll

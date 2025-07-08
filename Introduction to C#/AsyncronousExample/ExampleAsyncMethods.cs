@@ -17,7 +17,7 @@ class DelayedFileReader
         using (StreamReader reader = new StreamReader(filePath))
         {
             string content = await
-            reader.ReadFileAsync("example.txt");
+            reader.ReadFileAsync("example.txt"); //dummy read file method
         }
         Console.WriteLine(content);
     }
